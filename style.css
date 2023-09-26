@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+.comportamento{
+    list-style-type: upper-roman;
+}
+
+.emoji{
+    list-style-image: linear-gradient(yellow, blue);
+}
+
+.placa-pare{
+    list-style-image: url(placa-pare.jpg);
+}
+
+.placa-proibido-ultrapassar{
+    list-style-image: url(placa-proibido-ultrapassar.jpg);
+}
+
+.placa-preferencia{
+    list-style-image: url(placa-preferencia.jpg);
+}
+
+.parte{
+    list-style-type: decimal;
+}
+
+.capitulo{
+    list-style-type: lower-alpha;
+}
